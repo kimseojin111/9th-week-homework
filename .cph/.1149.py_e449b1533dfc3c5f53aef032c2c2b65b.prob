@@ -1,0 +1,1 @@
+{"name":"Local: 1149","url":"/root/tmp/1149.py","tests":[{"id":1763175283425,"input":"3\n26 40 83\n49 60 57\n13 89 99","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/root/tmp/1149.py","group":"local","local":true}
